@@ -1,4 +1,4 @@
-# Constitution_WG
+# Constitution Wokring Group
 
 This repository will house the data from both surveys of the Cardano Consititution working group.
 
