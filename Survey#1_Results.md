@@ -1,4 +1,2 @@
-# Principles of Governance Questionnaire
-## Survey No.1 Results
+# Survey No.1 -- Principles of Governance Questionnaire -- Results
 
-#### Results
