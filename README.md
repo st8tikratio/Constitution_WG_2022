@@ -2,7 +2,7 @@
 
 This repository will house the data from both surveys of the Cardano Consititution working group.
 
-> Please note the raw data will be available in the future
+> Please note the raw data will be available in the future.
 
 ### **Principles of Governance Questionnaire** - Survey No.1
 - **Title:** Principles of Governance Questionnaire
@@ -16,3 +16,4 @@ This repository will house the data from both surveys of the Cardano Consitituti
 - **Format:** Pol.is
 - **Original Poll:** [HERE](https://pol.is/7uvyfnprjb)
 - **Results:** [HERE](https://pol.is/report/r6kea3yeenemaeyhdxzrw)
+- > **Note:** The wallet document is not publicly available.
