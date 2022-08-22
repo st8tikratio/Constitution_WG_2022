@@ -20,16 +20,16 @@ The surveys below attempted to remove as much team bias as possible from the ins
 
 > While the CCWG did receive a distribution of Gimbal tokens none of the team members received individual distributions of Gimbals (GMBL) for this work. Artists were compensated in ADA or decided to apply royalties on their NFTs.
 
-### **Principles of Governance Questionnaire** - Survey No.1
+### **Principles of Governance Questionnaire** - Survey No.1 - [CLOSED]
 - **Title:** Principles of Governance Questionnaire
 - **Approx. Launch Date:** 21 April 2022
 - **Format:** Google Form
-- **Original Survey:** [HERE](https://forms.gle/Cqg7Ky18oDsSVcd2A) - **CLOSED**
+- **Original Survey:** [HERE](https://forms.gle/Cqg7Ky18oDsSVcd2A)
 - **Original Results:** [HERE](https://docs.google.com/spreadsheets/d/1vNg2ZuQhck4yzeT-W9w7L9j4lLrCM9at4aiLnMzHm5Q/edit?usp=sharing)
 - **Consolidated Results:** [HERE](https://docs.google.com/spreadsheets/d/1d2AyUBqWxpf1faALfnNK1w2AKCij7P4sOfXXGvjxP9E/edit?usp=sharing)
 - **Incentives:** None
 
-### **First Principles of Cardano Governance** - Survey No.2
+### **First Principles of Cardano Governance** - Survey No.2 - [OPEN]
 - **Title:** First Principles of Cardano Governance
 - **Approx. Launch Date:** 21 June 2022
 - **Format:** Pol.is
