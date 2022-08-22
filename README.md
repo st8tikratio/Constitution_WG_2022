@@ -27,6 +27,7 @@ The surveys below attempted to remove as much team bias as possible from the ins
 - **Original Survey:** [HERE](https://forms.gle/Cqg7Ky18oDsSVcd2A) - **CLOSED**
 - **Original Results:** [HERE](https://docs.google.com/spreadsheets/d/1vNg2ZuQhck4yzeT-W9w7L9j4lLrCM9at4aiLnMzHm5Q/edit?usp=sharing)
 - **Consolidated Results:** [HERE](https://docs.google.com/spreadsheets/d/1d2AyUBqWxpf1faALfnNK1w2AKCij7P4sOfXXGvjxP9E/edit?usp=sharing)
+- **Incentives:** None
 
 ### **First Principles of Cardano Governance** - Survey No.2
 - **Title:** First Principles of Cardano Governance
@@ -34,4 +35,5 @@ The surveys below attempted to remove as much team bias as possible from the ins
 - **Format:** Pol.is
 - **Original Poll:** [HERE](https://pol.is/7uvyfnprjb)
 - **Results:** [HERE](https://pol.is/report/r6kea3yeenemaeyhdxzrw)
+- **Incentives:** 800 NFTs (100 ea. of 8 unique artworks based on survey no. 1 data)
 > **Note:** The wallet document is not publicly available.
