@@ -35,7 +35,7 @@ The surveys below attempted to remove as much team bias as possible from the ins
 - **Format:** Pol.is
 - **Original Poll:** [HERE](https://pol.is/7uvyfnprjb)
 - **Results:** [HERE](https://pol.is/report/r6kea3yeenemaeyhdxzrw)
-- **Incentives:** 800 NFTs (100 ea. of 8 unique artworks)
+- **Incentives:** 800 NFTs @ 100 ea. of 8 unique artworks)
   - 8 artworks are based on top principles from survey no. 1 responses   
 > **Note:** The wallet document is not publicly available.
 
