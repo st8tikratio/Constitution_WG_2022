@@ -40,7 +40,10 @@ The surveys below attempted to remove as much team bias as possible from the ins
 > **Note:** The wallet document is not publicly available.
 
 ### NFT List for Survey No. 2
-There are a total of 800 NFTs. The are 8 unique artworks created by select blockchain NFT artist. Each unique piece will have no more than 100 mints. Basically there will only ever be 100 complete sets of all 8 NFTs. There is discussion of, but no promises for, future utlility. Any changes to this will be converyed within this Repo.
+There are a total of 800 NFTs. The are 8 unique artworks created by select blockchain NFT artist. Each unique piece will have no more than 100 mints. Basically there will only ever be 100 complete sets of all 8 NFTs. There is discussion of, but no promises for, future utlility. Any changes to this will be converyed within this repo.
+
+The holding address for all non-distributed NFTs can be found [HERE](https://pool.pm/$quasar/%406417ad57)
+
 |  Artwork Title    | Mints | Artist          | Royalties | Link                                                         | Image |
 | ----------------- | ----- | -----------     | --------- | -----------------------------------------------------------  | ----- |
 | Decentralization  | 100   | King Brown Art  | 0%        | [Pool.pm](https://pool.pm/asset1us05mfn9kk0jxafaqhu2wnfmkjqxlltt6ypfh0)                                                             | [Raw](https://bafybeifkq7sdpz722krg26ed367arpbrgqimpuokpp3suak6tf3ftyiqym.ipfs.nftstorage.link) |
