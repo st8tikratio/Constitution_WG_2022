@@ -51,5 +51,3 @@ There are a total of 800 NFTs. The are 8 unique artworks created by select block
 | Self-Sovereignty  | 100   | Ada Yoadaxyz    | 8%        | [Pool.pm](https://pool.pm/asset1fa2v64ezl55xz5xnfjy599mrssyajwthq8w74p) | [Raw](https://bafybeichxhcgb6xzljbxznwsa33bumy33m4nj4m5aeqbvkymmr5agi7c6a.ipfs.nftstorage.link)
 | Sustainability    | 100   | Ada Yoadaxyz    | 8%        | [Pool.pm](https://pool.pm/asset1t2x6ypx027awxgl8qj0gxljzmpm22nu7rnyrns) | [Raw](https://nftstorage.link/ipfs/QmQJJLSxekNtbUyrJ8UijdpLuFnkRSbec9h3FPDRyhKeTE)
 | Transparency      | 100   | Fwltur          | 0%        | [Pool.pm](https://pool.pm/asset1xuv4jwjhqtwnz8q2annkgv8hlg7reya73kywvs)                                                              | [Raw](https://bafybeiampetrsetq4g4bptw6ic475wj4omohduhsjul2w4hb355l42xl34.ipfs.nftstorage.link) |
-
-<img src="[image.png](https://bafybeiampetrsetq4g4bptw6ic475wj4omohduhsjul2w4hb355l42xl34.ipfs.nftstorage.link)" width="100" height="200">
