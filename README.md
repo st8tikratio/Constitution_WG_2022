@@ -42,7 +42,7 @@ The surveys below attempted to remove as much team bias as possible from the ins
 ### NFT List for Survey No. 2
 There are a total of 800 NFTs. The are 8 unique artworks created by select blockchain NFT artist. Each unique piece will have no more than 100 mints. Basically there will only ever be 100 complete sets of all 8 NFTs. There is discussion of, but no promises for, future utlility. Any changes to this will be converyed within this repo.
 
-The holding address for all non-distributed NFTs can be found [HERE](https://pool.pm/$quasar/%406417ad57)
+The holding address for all non-distributed NFTs can be found [HERE](https://pool.pm/addr1q8n0j0f28yudzgmljgscq57y6zeua5d6mnl6726f9j4eryq22vlyhls0d60vul5tj5d66y46fuyvx7hxuz70az4ksu0scredrw)
 
 |  Artwork Title    | Mints | Artist          | Royalties | Link                                                         | Image |
 | ----------------- | ----- | -----------     | --------- | -----------------------------------------------------------  | ----- |
@@ -54,3 +54,34 @@ The holding address for all non-distributed NFTs can be found [HERE](https://poo
 | Self-Sovereignty  | 100   | Ada Yoadaxyz    | 8%        | [Pool.pm](https://pool.pm/asset1fa2v64ezl55xz5xnfjy599mrssyajwthq8w74p) | [Raw](https://bafybeichxhcgb6xzljbxznwsa33bumy33m4nj4m5aeqbvkymmr5agi7c6a.ipfs.nftstorage.link)
 | Sustainability    | 100   | Ada Yoadaxyz    | 8%        | [Pool.pm](https://pool.pm/asset1t2x6ypx027awxgl8qj0gxljzmpm22nu7rnyrns) | [Raw](https://nftstorage.link/ipfs/QmQJJLSxekNtbUyrJ8UijdpLuFnkRSbec9h3FPDRyhKeTE)
 | Transparency      | 100   | Fwltur          | 0%        | [Pool.pm](https://pool.pm/asset1xuv4jwjhqtwnz8q2annkgv8hlg7reya73kywvs)                                                              | [Raw](https://bafybeiampetrsetq4g4bptw6ic475wj4omohduhsjul2w4hb355l42xl34.ipfs.nftstorage.link) |
+
+
+### Distribution #1
+
+#### Holding Wallet:
+- addr1q86qjct6feuyut5yt8pw60csxdqknmfzs2wltedht9wca7s22vlyhls0d60vul5tj5d66y46fuyvx7hxuz70az4ksu0sqwqwcn
+
+#### Distro #1 Tx Hash:
+- 3d51f3fd2729b72c36c897c1edfa5bc78c0699f692ad0378e2f683d75be8dce3
+
+#### Distro #1 - Participants:
+- 50 - Participant Wallets
+- 4 - NFTs per Participant
+- 200 - Total Participant Distribution
+
+#### Distro #1 - Team Members:
+- 7 - Team Members
+- 8 - NFTs per Member
+- 56 - Total Member Distribution
+
+#### Distro #1 - Total Numbers
+- Expected Numbers
+    - 200 - Participant Distribution
+    - 56 - Team Distribution
+    - 544 - Remainin NFTs
+- Actual Numbers
+    - 202 - Participant Distribution
+        - **+2 over**
+    - 56 - Team Distribution
+    - 542 - Remainig NFTs
+
