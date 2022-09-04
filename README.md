@@ -56,7 +56,9 @@ The holding address for all non-distributed NFTs can be found [HERE](https://poo
 | Transparency      | 100   | Fwltur          | 0%        | [Pool.pm](https://pool.pm/asset1xuv4jwjhqtwnz8q2annkgv8hlg7reya73kywvs)                                                              | [Raw](https://bafybeiampetrsetq4g4bptw6ic475wj4omohduhsjul2w4hb355l42xl34.ipfs.nftstorage.link) |
 
 
-### Distribution #1
+---
+
+## Distribution #1
 
 #### Holding Wallet:
 - addr1q86qjct6feuyut5yt8pw60csxdqknmfzs2wltedht9wca7s22vlyhls0d60vul5tj5d66y46fuyvx7hxuz70az4ksu0sqwqwcn
@@ -85,3 +87,4 @@ The holding address for all non-distributed NFTs can be found [HERE](https://poo
     - 56 - Team Distribution
     - 542 - Remainig NFTs
 
+---
