@@ -57,7 +57,7 @@ The holding address for all non-distributed NFTs can be found [HERE](https://poo
 
 ---
 
-# Distribution No.1
+## Distribution No.1
 
 ### Purpose:
 - This is the [NFT](/vjBO9l5yR6qWE_xGOGJMlw) distribution for those persons who had participated in [Survey No. 2](/tHSnmE9FSa2SOQsLtdi_1w) and also provided their wallet address
@@ -103,7 +103,7 @@ The holding address for all non-distributed NFTs can be found [HERE](https://poo
 
 ---
 
-# Distribution No.2
+## Distribution No.2
 
 ### Purpose:
 - This is the distribution of NFTs to those community members who were instrumental in rolling out Survey No.2. This includes artists as well. Each member received a complete set of eight (8) NFTs.
