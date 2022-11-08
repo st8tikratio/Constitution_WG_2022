@@ -1,4 +1,7 @@
 # Cardano Constitution Working Group
+:warning: This repo and project have been handed off to Quasar. Due to my recent departure from Cardano Community (30 Oct 2022 @ 2359UTC) this repo will no longer be updated unless data is provided by the new project custodian
+
+---
 
 ## Repo Info
 
