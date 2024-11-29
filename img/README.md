@@ -1,1 +1,1 @@
-# All supporting iamges for GWG20222
+# All supporting images for GWG20222
