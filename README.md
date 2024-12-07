@@ -13,7 +13,7 @@ The Cardano Constitution Working Group was created as part of the Gimbalabs Toke
 
 ## Location
 
-The Constitution WG lives on here in this repository (mainly this page). The acutal [Discord channel]([https://discord.com/channels/767416282198835220/958407168174985306) is now archived. In order to view the channel one must join the [Gimbalabs Discord server](https://discord.gg/fEykcQejDf) and then select the role of `archivist`. Selecting this role will allowing viewing of the `Archived - Tokenomics PBL` category which houses the channel referecned above.
+The Constitution WG lives on here in this repository (mainly this page). The respective Discord channel has been archived. In order to view the channel one must join the [Gimbalabs Discord server](https://discord.gg/fEykcQejDf) and then select the role of `archivist`. Selecting this role will allowing viewing of the `Archived - Tokenomics PBL` category which houses the `Constitutiton WG` channel.
 
 ## Working Group Composition
 
@@ -21,7 +21,8 @@ The Constitution WG lives on here in this repository (mainly this page). The acu
 
 Initially there was great interest among a few members of the PBL Tokenomics group. As the weeks progressed, and time passed, interest waned. Those early participants are important in many ways, just as discourse is. To the community: Without it there would be nothing remotely relevant. No data. No feedback. Thank you.
 
-#### Core Groups
+#### Core Team
+
 - Funding
   - Sym - [@sentient_sym](https://x.com/sentient_sym)
   - Ratio - [@st8tik](https://x.com/st8tik)
@@ -29,7 +30,7 @@ Initially there was great interest among a few members of the PBL Tokenomics gro
   - Ada Moon - [@yoadaxyz](https://x.com/yoadaxyz)
   - Fwultur - [@Fwultr](https://x.com/Fwltur)
   - King Brown - [@kingbrownart](https://x.com/kingbrownart)
-- Mint Masters & Wallet Holders
+- Mint Master & Wallet Holder
   - Quasar - [@QuasarSure](https://x.com/QuasarSure)
   - NEED NAME - []()
 
