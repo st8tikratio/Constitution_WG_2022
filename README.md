@@ -45,7 +45,7 @@ The surveys below attempted to remove as much team bias as possible from the ins
 ### **First Principles of Cardano Governance** - Survey No.2 - [OPEN]
 - **Title:** First Principles of Cardano Governance
 - **Approx. Launch Date:** 21 June 2022
-- **Format:** Pol.is
+- **Format:** [Pol.is](https://pol.is)
 - **Original Poll:** [HERE](https://pol.is/7uvyfnprjb)
 - **Results:** [HERE](https://pol.is/report/r6kea3yeenemaeyhdxzrw)
 - **Incentives:** 800 NFTs @ 100 ea. of 8 unique artworks)
