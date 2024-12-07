@@ -19,7 +19,9 @@ The Constitution WG lives on here in this repository (mainly this page). The res
 
 #### Initial Group
 
-Initially there was great interest among a few members of the PBL Tokenomics group. As the weeks progressed, and time passed, interest waned. Those early participants are important in many ways, just as discourse is. To the community: Without it there would be nothing remotely relevant. No data. No feedback. Thank you.
+Initially there was great interest among a few members of the PBL Tokenomics group. As the weeks progressed, and time passed, interest waned. Those early participants are important in many ways, just as discourse is.
+
+To the community: Without it there would be nothing remotely relevant. No data. No feedback. Thank you.
 
 #### Core Team
 
@@ -56,6 +58,8 @@ The surveys below attempted to remove as much team bias as possible from the ins
 > Funding for NFTs came from within the group. Artists had the opportunity, if so chosen, to apply royalties to their respective NFT artworks.
 
 There are a total of 800 NFTs. These are 8 unique artworks created by select blockchain NFT artist. Each unique piece will have no more than 100 mints. Basically there will only ever be 100 complete sets of all 8 NFTs. There is discussion of, but no promises for, future utlility. Any changes to this will be converyed within this repo.
+
+For more information click [here](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/nft-list.md) **OR** click the image below.
 
 [![img](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/NFT_Cutsheet%20Medium.jpeg)](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/nft-list.md)
 ---
