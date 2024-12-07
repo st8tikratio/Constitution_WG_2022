@@ -1,21 +1,37 @@
-# Cardano Constitution Working Group
-:warning: This repo and project have been handed off to Quasar. Due to my recent departure from Cardano Community (30 Oct 2022 @ 2359UTC) this repo will no longer be updated unless data is provided by the new project custodian
+# 2022 Cardano Constitution Working Group
+⚠️ This repo is currently being updaetd as of 07 Dec 2024 ⚠️ 
 
 ---
 
 ## Repo Info
 
-This repository will house the data from both surveys of the Cardano Consititution working group.
-
-> Please note the raw data will be available in the future.
+This repository houses all of the data from the Cardano Consititution WG, both community surveys and the associated NFT mints.
 
 ## Background
 
-The Cardano Constitution Working Group was created as part of the Gimbalabs Tokenomics PBL. While the intitial participation was relatively high, over time the participation level drastically dropped. The Constitution WG lives on here in this repository (mainly this page). The acutal [Discord channel](https://discord.com/channels/767416282198835220/958407168174985306) is still live for now and is part of Allocation Zero (A0) of the aforementioned Tokenomics PBL group.
+The Cardano Constitution Working Group was created as part of the Gimbalabs Tokenomics PBL to explore, discuss and draft an outline to a community constitution.
 
-I would like to thank all those who were initial participants of this group with a special shout out to **Sym**. There are other Cardano community members who helped in the creation of and distribution of the NFT incentives for survey no. 2 and helped scope down responses from survey no. 1. To these members, we greatly appreciate your assitance and input.
+## Location
 
-To the community, a sincere thank you to those who have participated in the surveys. Without you there would be no survey data, nothing to share, fewer data points and far fewer voices heard (and viewed).
+The Constitution WG lives on here in this repository (mainly this page). The acutal [Discord channel]([https://discord.com/channels/767416282198835220/958407168174985306) is now archived. In order to view the channel one must join the [Gimbalabs Discord server](https://discord.gg/fEykcQejDf) and then select the role of `archivist`. Selecting this role will allowing viewing of the `Archived - Tokenomics PBL` category which houses the channel referecned above.
+
+## Working Group Composition
+
+#### Initial Group
+
+Initially there was great interest among a few members of the PBL Tokenomics group. As the weeks progressed, and time passed, interest waned. Those early participants are important in many ways, just as discourse is. To the community: Without it there would be nothing remotely relevant. No data. No feedback. Thank you.
+
+#### Core Groups
+- Funding
+  - Sym - [@sentient_sym](https://x.com/sentient_sym)
+  - Ratio - [@st8tik](https://x.com/st8tik)
+- NFT Artists
+  - Ada Moon - [@yoadaxyz](https://x.com/yoadaxyz)
+  - Fwultur - [@Fwultr](https://x.com/Fwltur)
+  - King Brown - [@kingbrownart](https://x.com/kingbrownart)
+- Mint Masters & Wallet Holders
+  - Quasar - [@QuasarSure](https://x.com/QuasarSure)
+  - NEED NAME - []()
 
 ## Survey Links and Information
 
