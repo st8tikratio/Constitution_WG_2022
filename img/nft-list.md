@@ -15,8 +15,3 @@
 | ![img](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/sustainability_small.jpeg)  | Sustainability      | 100         | Ada Yoadaxyz   | 8%        | PNG    | [Pool.pm](https://pool.pm/asset1t2x6ypx027awxgl8qj0gxljzmpm22nu7rnyrns) |
 | ![img](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/transparency-small.jpeg)    | Transparency        | 100         | Fwltur         | 0%        | PNG    | [Pool.pm](https://pool.pm/asset1xuv4jwjhqtwnz8q2annkgv8hlg7reya73kywvs) |
 
----
-
-## Cut-Sheet
-
-![img](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/NFT_Cutsheet.jpg)
