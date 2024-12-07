@@ -1,4 +1,4 @@
-# Distribution #1
+# NFT Distribution #1
 
 ### Purpose:
 - This is the [NFT](/vjBO9l5yR6qWE_xGOGJMlw) distribution for those persons who had participated in [Survey No. 2](/tHSnmE9FSa2SOQsLtdi_1w) and also provided their wallet address
