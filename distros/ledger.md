@@ -6,7 +6,7 @@
 - Address: `addr1q9vv4d6me424w7gf4yx55km65u7zpzhrwzy53nuhrkswytm9dnurknrf7yutan07ynz6m7ngftn00fhssfs86ck0lhnsk206e9`
 - Ada Balance: `97.81`
 - GMBL Balance: `806,216`
-- Staked: Yes
+- Staked: `Yes`
 
 ### GMBL Distributions
 - None
