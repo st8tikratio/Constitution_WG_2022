@@ -25,9 +25,9 @@ Initially there was great interest among a few members of the PBL Tokenomics gro
 
 | Funding  | NFT Artists  | Mint Masters | Wallet Holder |
 | -------  | ---------    | ------------ | -----------   |
-| Sym - [@sentient_sym](https://x.com/sentient_sym)   | Fwultur - [@Fwultr](https://x.com/Fwltur) | NEED NAME - []() | Quasar - [@QuasarSure](https://x.com/QuasarSure)|
-| Ratio - [@st8tik](https://x.com/st8tik) | Ada Moon - [@yoadaxyz](https://x.com/yoadaxyz) | Quasar - [@QuasarSure](https://x.com/QuasarSure) | |
-|       |  King Brown Art - [@kingbrownart](https://x.com/kingbrownart) | | |
+| [@sentient_sym](https://x.com/sentient_sym)   | [@Fwultr](https://x.com/Fwltur) | NEED NAME - []() | [@QuasarSure](https://x.com/QuasarSure)|
+| [@st8tik](https://x.com/st8tik) | [@yoadaxyz](https://x.com/yoadaxyz) | [@QuasarSure](https://x.com/QuasarSure) | |
+|       |  [@kingbrownart](https://x.com/kingbrownart) | | |
 
 ## Survey Links and Information
 
