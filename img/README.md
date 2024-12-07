@@ -4,7 +4,7 @@
 
 ## NFTs
 #### Cutsheet
-![img](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/NFT_Cutsheet.pdf)
+![img](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/NFT_Cutsheet%20Medium.jpeg)
 
 ---
 #### Info Table
