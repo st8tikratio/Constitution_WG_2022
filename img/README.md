@@ -1,13 +1,13 @@
-# All supporting images for GWG20222
+# NFTs
 
 
+## Cut-Sheet
 
-## NFTs
-#### Cutsheet
 ![img](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/NFT_Cutsheet.jpg)
 
 ---
-#### Info Table
+
+## Info Table
 
 |  Image                                                                                               | Title               | Mints       |   Artist       | Royalties | Format | Link     |
 | -------------------------------------------------                                                    | -----------------   | ---------   |  --------      | --------- | ------ | -------- |
