@@ -32,14 +32,14 @@
 
 ### Distribution Table
 
-| Title            | Original Count | Distro #1 | Distro #2 | Remaining|
-| -----            | -------------- | ----------| -------- | -------- |
-| [Decentralization](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/ByALRCHgo)                    | 100            | 22        | 7        | 71       |
-| [Education](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/SkthtX9xi)                          | 100            | 32        | 7        | 61       |
-| [Equality](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/SJF5cm9gs)                            | 100            | 24        | 7        | 69       |
-| [Honesty](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/HJTWARrej)                            | 100            | 26        | 7        | 67       |
-| [Inclusivity](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/rJL9nCrgo)                        | 100            | 22        | 7        | 71       |
-| [Self-Sovereingty](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/SkkT3CBgo)                    | 100            | 27        | 7        | 66       |
-| [Sustainability](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/BJMuaRHgj)                      | 100            | 27        | 7        | 66       |
-| [Transparency](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/Skxgs75gi)                        | 100            | 20        | 7        | 73       |
+| Title            | Current Count  | Distro #2 | Remaining|
+| -----            | -------------- | --------  | -------- |
+| [Decentralization](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/ByALRCHgo)                    | 78            | 7        | 71       |
+| [Education](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/SkthtX9xi)                           | 68            | 7        | 61       |
+| [Equality](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/SJF5cm9gs)                            | 76            | 7        | 69       |
+| [Honesty](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/HJTWARrej)                             | 74            | 7        | 67       |
+| [Inclusivity](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/rJL9nCrgo)                         | 78            | 7        | 71       |
+| [Self-Sovereingty](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/SkkT3CBgo)                    | 73            | 7        | 66       |
+| [Sustainability](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/BJMuaRHgj)                      | 73            | 7        | 66       |
+| [Transparency](https://hackmd.io/@zaRRiZ6-RuKUOMNklY0lVg/Skxgs75gi)                        | 80            | 7        | 73       |
 | **Totals**      | **800**       | **200**   | **56**  | **544**  |
