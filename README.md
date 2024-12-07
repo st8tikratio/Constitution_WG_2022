@@ -23,22 +23,15 @@ Initially there was great interest among a few members of the PBL Tokenomics gro
 
 #### Core Team
 
-- Funding
-  - Sym - [@sentient_sym](https://x.com/sentient_sym)
-  - Ratio - [@st8tik](https://x.com/st8tik)
-- NFT Artists
-  - Ada Moon - [@yoadaxyz](https://x.com/yoadaxyz)
-  - Fwultur - [@Fwultr](https://x.com/Fwltur)
-  - King Brown - [@kingbrownart](https://x.com/kingbrownart)
-- Mint Master & Wallet Holder
-  - Quasar - [@QuasarSure](https://x.com/QuasarSure)
-  - NEED NAME - []()
+| Funding  | NFT Artists  | Mint Masters | Wallet Holder |
+| -------  | ---------    | ------------ | -----------   |
+| Sym - [@sentient_sym](https://x.com/sentient_sym)   | Fwultur - [@Fwultr](https://x.com/Fwltur) | NEED NAME - []() | Quasar - [@QuasarSure](https://x.com/QuasarSure)|
+| Ratio - [@st8tik](https://x.com/st8tik) | Ada Moon - [@yoadaxyz](https://x.com/yoadaxyz) | Quasar - [@QuasarSure](https://x.com/QuasarSure) | |
+|       |  King Brown Art - [@kingbrownart](https://x.com/kingbrownart) | | |
 
 ## Survey Links and Information
 
 The surveys below attempted to remove as much team bias as possible from the instructions, verbiage and pre-populated data.
-
-> While the CCWG did receive a distribution of Gimbal tokens none of the team members received individual distributions of Gimbals (GMBL) for this work. Artists were compensated in ADA or decided to apply royalties on their NFTs.
 
 ### **Principles of Governance Questionnaire** - Survey No.1 - [CLOSED]
 - **Title:** Principles of Governance Questionnaire
@@ -60,6 +53,9 @@ The surveys below attempted to remove as much team bias as possible from the ins
 > **Note:** The wallet document is not publicly available.
 
 ### NFT List for Survey No. 2
+
+> To date: No GMBL tokens have been distributed from the CCWG wallet. Funding for NFTs came from within the group. Artists had the opportunity, if so chosen, to apply royalties to their respective NFT artworks.
+
 There are a total of 800 NFTs. The are 8 unique artworks created by select blockchain NFT artist. Each unique piece will have no more than 100 mints. Basically there will only ever be 100 complete sets of all 8 NFTs. There is discussion of, but no promises for, future utlility. Any changes to this will be converyed within this repo.
 
 The holding address for all non-distributed NFTs can be found [HERE](https://pool.pm/addr1q8n0j0f28yudzgmljgscq57y6zeua5d6mnl6726f9j4eryq22vlyhls0d60vul5tj5d66y46fuyvx7hxuz70az4ksu0scredrw)
