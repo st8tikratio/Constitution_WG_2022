@@ -1,5 +1,5 @@
 # 2022 Cardano Constitution Working Group
-⚠️ This repo is currently being updaetd as of 07 Dec 2024 ⚠️ 
+⚠️ This repo is currently being updated as of 07 Dec 2024 ⚠️ 
 
 ---
 
