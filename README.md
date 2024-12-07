@@ -57,7 +57,7 @@ The surveys below attempted to remove as much team bias as possible from the ins
 
 There are a total of 800 NFTs. These are 8 unique artworks created by select blockchain NFT artist. Each unique piece will have no more than 100 mints. Basically there will only ever be 100 complete sets of all 8 NFTs. There is discussion of, but no promises for, future utlility. Any changes to this will be converyed within this repo.
 
-[![img](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/NFT_Cutsheet%20Medium.jpeg)](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/README.md#info-table)
+[![img](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/NFT_Cutsheet%20Medium.jpeg)](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/nft-list.md)
 ---
 
 ## Distributions
