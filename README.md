@@ -52,25 +52,13 @@ The surveys below attempted to remove as much team bias as possible from the ins
   - 8 artworks are based on top principles from survey no. 1 responses   
 > **Note:** The wallet document is not publicly available.
 
-### NFT List for Survey No. 2
+## NFTs
 
 > To date: No GMBL tokens have been distributed from the CCWG wallet. Funding for NFTs came from within the group. Artists had the opportunity, if so chosen, to apply royalties to their respective NFT artworks.
 
 There are a total of 800 NFTs. The are 8 unique artworks created by select blockchain NFT artist. Each unique piece will have no more than 100 mints. Basically there will only ever be 100 complete sets of all 8 NFTs. There is discussion of, but no promises for, future utlility. Any changes to this will be converyed within this repo.
 
-The holding address for all non-distributed NFTs can be found [HERE](https://pool.pm/addr1q8n0j0f28yudzgmljgscq57y6zeua5d6mnl6726f9j4eryq22vlyhls0d60vul5tj5d66y46fuyvx7hxuz70az4ksu0scredrw)
-
-|  Artwork Title    | Mints | Artist          | Royalties | Link                                                         | Image |
-| ----------------- | ----- | -----------     | --------- | -----------------------------------------------------------  | ----- |
-| Decentralization  | 100   | King Brown Art  | 0%        | [Pool.pm](https://pool.pm/asset1us05mfn9kk0jxafaqhu2wnfmkjqxlltt6ypfh0)                                                             | [Raw](https://bafybeifkq7sdpz722krg26ed367arpbrgqimpuokpp3suak6tf3ftyiqym.ipfs.nftstorage.link) |
-| Edcuational       | 100   | Fwltur          | 0%        | [Pool.pm](https://pool.pm/asset1r7gn8wznagymahcn507qhjy0vg53tw5spzay0m)                                                             | [Raw](https://nftstorage.link/ipfs/QmRbU48X9RyBjeaPPiPJvKpfQE6xkf5AcpNktbyxt16RN9 ) | 
-| Equality          | 100   | Fwltur          | 0%        | [Pool.pm](https://pool.pm/asset1ggnrn7m68y6t2lyrryftgv8xrr02qgcz9h2cs8)                                                             | [Raw](https://bafybeica2uubqasgaftdsyeuryw5h6yasumfrcurdzvymush4sjn7kgeui.ipfs.nftstorage.link) | 
-| Honesty           | 100   | King Brown Art  | 0%        | [Pool.pm](https://pool.pm/asset10lrp5xhhmce93cmnp8myjtn4wrqlals0lkjnl8)                                                              | [Raw](https://bafybeidis5z6dx2ne7b6jwhvplqk3zl5qzwqbp6hkwxqtizdgyxaioeboa.ipfs.nftstorage.link) | 
-| Inclusivity       | 100   | Ada Yoadaxyz    | 8%        | [Pool.pm](https://pool.pm/asset10xkr6wk43w8kpmym9rlgaffqzq5rt9yaf0yt6m) | None
-| Self-Sovereignty  | 100   | Ada Yoadaxyz    | 8%        | [Pool.pm](https://pool.pm/asset1fa2v64ezl55xz5xnfjy599mrssyajwthq8w74p) | [Raw](https://bafybeichxhcgb6xzljbxznwsa33bumy33m4nj4m5aeqbvkymmr5agi7c6a.ipfs.nftstorage.link)
-| Sustainability    | 100   | Ada Yoadaxyz    | 8%        | [Pool.pm](https://pool.pm/asset1t2x6ypx027awxgl8qj0gxljzmpm22nu7rnyrns) | [Raw](https://nftstorage.link/ipfs/QmQJJLSxekNtbUyrJ8UijdpLuFnkRSbec9h3FPDRyhKeTE)
-| Transparency      | 100   | Fwltur          | 0%        | [Pool.pm](https://pool.pm/asset1xuv4jwjhqtwnz8q2annkgv8hlg7reya73kywvs)                                                              | [Raw](https://bafybeiampetrsetq4g4bptw6ic475wj4omohduhsjul2w4hb355l42xl34.ipfs.nftstorage.link) |
-
+[![img](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/NFT_Cutsheet%20Medium.jpeg)](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/README.md#info-table)
 ---
 
 ## Distributions
