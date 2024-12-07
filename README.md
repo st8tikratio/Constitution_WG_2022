@@ -25,9 +25,9 @@ Initially there was great interest among a few members of the PBL Tokenomics gro
 
 | Funding  | NFT Artists  | Mint Masters | Wallet Holder |
 | -------  | ---------    | ------------ | -----------   |
-| [@sentient_sym](https://x.com/sentient_sym)   | [@Fwultr](https://x.com/Fwltur) | NEED NAME - []() | [@QuasarSure](https://x.com/QuasarSure)|
-| [@st8tik](https://x.com/st8tik) | [@yoadaxyz](https://x.com/yoadaxyz) | [@QuasarSure](https://x.com/QuasarSure) | |
-|       |  [@kingbrownart](https://x.com/kingbrownart) | | |
+| [Sym](https://x.com/sentient_sym)   | [Fwultr](https://x.com/Fwltur) | NEED NAME - []() | [Quasar](https://x.com/QuasarSure)|
+| [Ratio13](https://x.com/st8tik)   | [Ada Yoadaxyz](https://x.com/yoadaxyz) | [Quasar](https://x.com/QuasarSure) | |
+|       |  [King Brown Art](https://x.com/kingbrownart) | | |
 
 ## Survey Links and Information
 
