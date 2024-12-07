@@ -54,7 +54,7 @@ The surveys below attempted to remove as much team bias as possible from the ins
 
 ## NFTs
 
-> To date: No GMBL tokens have been distributed from the CCWG wallet. Funding for NFTs came from within the group. Artists had the opportunity, if so chosen, to apply royalties to their respective NFT artworks.
+> Funding for NFTs came from within the group. Artists had the opportunity, if so chosen, to apply royalties to their respective NFT artworks.
 
 There are a total of 800 NFTs. The are 8 unique artworks created by select blockchain NFT artist. Each unique piece will have no more than 100 mints. Basically there will only ever be 100 complete sets of all 8 NFTs. There is discussion of, but no promises for, future utlility. Any changes to this will be converyed within this repo.
 
