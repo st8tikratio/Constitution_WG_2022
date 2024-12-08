@@ -1,9 +1,9 @@
-![img](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/NFT_Cutsheet.jpg)
+# 2022 Cardano Constitution Working Group
+⚠️ This repo is currently being updated as of 07 Dec 2024 ⚠️ 
 
 ---
 
-# 2022 Cardano Constitution Working Group
-⚠️ This repo is currently being updated as of 07 Dec 2024 ⚠️ 
+![img](https://github.com/st8tikratio/Constitution_WG_2022/blob/main/img/NFT_Cutsheet.jpg)
 
 ---
 
@@ -37,7 +37,7 @@ To the community: Without it there would be nothing remotely relevant. No data. 
 
 | Funding  | NFT Artists  | Mint Masters | Wallet Holder |
 | -------  | ---------    | ------------ | -----------   |
-| [Sym](https://x.com/sentient_sym)   | [Fwultr](https://x.com/Fwltur) | NEED NAME - []() | [Quasar](https://x.com/QuasarSure)|
+| [Sym](https://x.com/sentient_sym)   | [Fwultr](https://x.com/Fwltur) | [Dagwell](https://x.com/DagwellCli) | [Quasar](https://x.com/QuasarSure)|
 | [Ratio13](https://x.com/st8tik)   | [Ada Yoadaxyz](https://x.com/yoadaxyz) | [Quasar](https://x.com/QuasarSure) | |
 |       |  [King Brown Art](https://x.com/kingbrownart) | | |
 
